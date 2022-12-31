@@ -1,3 +1,3 @@
 # INQUISITOR
 
-> The inquisitor will record your crime.
+> Inquisitor will record your crime.
