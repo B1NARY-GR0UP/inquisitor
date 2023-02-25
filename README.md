@@ -1,4 +1,7 @@
-# INQUISITOR
+<h1>
+  <img src="images/logo.svg" align="left" height="46px" alt="INQUISITOR logo"/>
+  <span>INQUISITOR</span>
+</h1>
 
 > Inquisitor will record your crime.
 
