@@ -5,12 +5,16 @@
 
 > Inquisitor will record your crime.
 
-## Quick Start
-
-### Install
+## Install
 
 ```shell
 go get github.com/B1NARY-GR0UP/inquisitor
 ```
 
-INQUISITOR is a subproject of the [BINARY WEB ECOLOGY](https://github.com/B1NARY-GR0UP)
+## ECOLOGY
+
+<p align="center">
+<img src="https://github.com/justlorain/justlorain/blob/main/images/BINARY-WEB-ECO.png" alt="BINARY-WEB-ECO"/>
+<br/><br/>
+PIANO is a subproject of the <a href="https://github.com/B1NARY-GR0UP">BINARY WEB ECOLOGY</a>.
+</p>
